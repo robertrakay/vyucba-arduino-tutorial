@@ -1,0 +1,25 @@
+# Arduino build files
+*.hex
+*.elf
+*.bin
+*.map
+
+# Arduino IDE
+.idea/
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# Credentials (don't commit WiFi passwords!)
+config_local.h
+secrets.h
