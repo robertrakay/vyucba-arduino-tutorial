@@ -208,9 +208,9 @@ The modular architecture makes it easy to extend:
 - Comment complex logic
 - Keep files focused (single responsibility)
 
-## 🤝 Contributing
+##  Contributing
 
-Contributions welcome! Please:
+Contributions welcome! Please  DONT DO THAT :
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit changes (`git commit -m 'Add amazing feature'`)
@@ -221,7 +221,7 @@ Contributions welcome! Please:
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Arduino Community** for GIGA board support
 - **Markus Sattler** for WebSocketsServer library
@@ -233,7 +233,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 Project Link: [https://github.com/YOUR_USERNAME/giga-led-control](https://github.com/YOUR_USERNAME/giga-led-control)
 
-## 🗺️ Roadmap
+## 🗺️ Roadmap - Maybe one day, I have other 14,000,605 projects to finish!
 
 - [ ] Add MQTT support for cloud integration
 - [ ] Implement MATLAB TCP/IP server
@@ -244,4 +244,4 @@ Project Link: [https://github.com/YOUR_USERNAME/giga-led-control](https://github
 
 ---
 
-**Built with ❤️ for Industrial IoT Education**
+**Built with curiosity and Perplexity :D  for Industrial IoT Education**
